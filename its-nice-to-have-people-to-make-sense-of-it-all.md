@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Its nice to have people to make sense of it all"
+title:  "Its Nice to Have People to Make Sense of it All"
 permalink: /its-nice-to-have-people-to-make-sense-of-it-all/
 excerpt: ""
 ---

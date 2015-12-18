@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "So much of who we are"
+title:  "So Much of Who We Are"
 permalink: /so-much-of-who-we-are/
 excerpt: ""
 ---

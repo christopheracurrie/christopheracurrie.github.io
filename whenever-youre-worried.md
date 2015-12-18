@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Whenever youre worried"
+title:  "Whenever You're Worried"
 permalink: /whenever-youre-worried/
 excerpt: ""
 ---

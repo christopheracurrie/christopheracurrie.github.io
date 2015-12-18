@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "What Do You Do With a Guy like that"
+title:  "What Do You Do With a Guy Like That"
 permalink: /what-do-you-do-with-a-guy-like-that/
 excerpt: ""
 ---

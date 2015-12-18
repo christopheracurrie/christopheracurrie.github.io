@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "I kind of like that kid"
+title:  "I Kind of Like That Kid"
 permalink: /i-kind-of-like-that-kid/
 excerpt: ""
 ---
