@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "So much of who we are"
+permalink: /so-much-of-who-we-are/
+excerpt: ""
+---
+
 ##So Much of Who We Are
 From the beginning
 We take on characteristics.
@@ -23,3 +30,4 @@ We become so aware
 That one of life's legacies –
 Our parent's blueprint – is
 So much of who we are.
+

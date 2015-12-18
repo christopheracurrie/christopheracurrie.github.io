@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "Gossip"
+permalink: /gossip/
+excerpt: ""
+---
+
 #Bits and Pieces from the American Classroom
 ##Gossip
  

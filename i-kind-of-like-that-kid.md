@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "I kind of like that kid"
+permalink: /i-kind-of-like-that-kid/
+excerpt: ""
+---
+
 ##I Kind of Like That Kid
 I kind of like that kid
 Though he does

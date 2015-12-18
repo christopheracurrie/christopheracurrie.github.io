@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "What Do You Do With a Guy like that"
+permalink: /what-do-you-do-with-a-guy-like-that/
+excerpt: ""
+---
+
 #Bits and Pieces from the American Classroom
 ##What do You do with a Guy Like That?
 What do you do

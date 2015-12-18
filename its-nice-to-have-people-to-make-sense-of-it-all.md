@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "Its nice to have people to make sense of it all"
+permalink: /its-nice-to-have-people-to-make-sense-of-it-all/
+excerpt: ""
+---
+
 #Bits and Pieces from the American Classroom
 ##It's Nice to Have People to Make Sense of It All
 
@@ -42,3 +49,5 @@ It's nice to have people
 To make sense of it all.
 
 ***Having people you can trust with your feelings is important.
+
+   

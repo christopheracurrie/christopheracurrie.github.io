@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "The American Thing"
+permalink: /the-american-thing/
+excerpt: ""
+---
+
 #Bits and Pieces from the American Classroom
 ##The American Thing
 When we were children

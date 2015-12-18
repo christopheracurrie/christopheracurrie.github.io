@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "Graduation Day is Special"
+permalink: /graduation-day-is-special/
+excerpt: ""
+---
+
 #Bits and Pieces from the American Classroom
 ##Graduation Day is Special
 Graduation Day is special.

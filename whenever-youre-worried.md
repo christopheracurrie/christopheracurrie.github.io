@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "Whenever youre worried"
+permalink: /whenever-youre-worried/
+excerpt: ""
+---
+
 ##Whenever You're Worried
 Whenever you're worried
 And ready to quit,

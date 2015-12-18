@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "The Laughter in Between"
+permalink: /the-laughter-in-between/
+excerpt: ""
+---
+
 #Bits and Pieces from the American Classroom
 ##The Laughter in Between
 I watch my children play.

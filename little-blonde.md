@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "Little Blonde"
+permalink: /little-blonde/
+excerpt: ""
+---
+
 #Bits and Pieces from the American Classroom
 ##Little Blonde
 Little Blonde

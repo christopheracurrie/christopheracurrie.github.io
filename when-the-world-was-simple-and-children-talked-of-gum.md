@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "When the world was simple and children talked of gum"
+permalink: /when-the-world-was-simple-and-children-talked-of-gum/
+excerpt: ""
+---
+
 #Bits and Pieces from the American Classroom
 ##When the World Was Simple and Children Talked of Gum
 
@@ -33,3 +40,4 @@ whose dreams
 have come alive.
 
 ***Lawyers, athletes, and business people had big dreams.
+
