@@ -17,8 +17,8 @@ google_analytics_tracking_id:
 nav:
   - title: "Home"
     url:   "/"
-  - title: "Documentation"
-    url:   "/docs/"
+  - title: "Englasese"
+    url:   "/englasese/"
 
 social_links:
   - title: "Twitter"
