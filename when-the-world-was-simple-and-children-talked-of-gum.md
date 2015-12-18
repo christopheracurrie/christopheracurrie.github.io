@@ -6,7 +6,6 @@ excerpt: ""
 ---
 
 #Bits and Pieces from the American Classroom
-##When the World Was Simple and Children Talked of Gum
 
 When the world
 was simple

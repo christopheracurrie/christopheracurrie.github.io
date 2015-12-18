@@ -6,7 +6,7 @@ excerpt: ""
 ---
 
 #Bits and Pieces from the American Classroom
-##What do You do with a Guy Like That?
+
 What do you do
 With a guy like that
 That’s  all messed up

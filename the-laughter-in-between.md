@@ -6,7 +6,7 @@ excerpt: ""
 ---
 
 #Bits and Pieces from the American Classroom
-##The Laughter in Between
+
 I watch my children play.
 They bicker
 And they fight

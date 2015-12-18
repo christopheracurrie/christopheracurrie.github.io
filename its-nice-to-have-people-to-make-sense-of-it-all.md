@@ -6,7 +6,6 @@ excerpt: ""
 ---
 
 #Bits and Pieces from the American Classroom
-##It's Nice to Have People to Make Sense of It All
 
 Whenever I wonder
 What person I am
@@ -50,4 +49,3 @@ To make sense of it all.
 
 ***Having people you can trust with your feelings is important.
 
-   

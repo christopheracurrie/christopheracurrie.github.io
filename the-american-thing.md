@@ -6,7 +6,7 @@ excerpt: ""
 ---
 
 #Bits and Pieces from the American Classroom
-##The American Thing
+
 When we were children
 Didn't it seem
 That the world was filled

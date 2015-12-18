@@ -5,7 +5,6 @@ permalink: /whenever-youre-worried/
 excerpt: ""
 ---
 
-##Whenever You're Worried
 Whenever you're worried
 And ready to quit,
 Life is a nightmare

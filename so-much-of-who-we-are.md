@@ -5,7 +5,6 @@ permalink: /so-much-of-who-we-are/
 excerpt: ""
 ---
 
-##So Much of Who We Are
 From the beginning
 We take on characteristics.
 Some are Mom's

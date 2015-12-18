@@ -6,7 +6,7 @@ excerpt: ""
 ---
 
 #Bits and Pieces from the American Classroom
-##Graduation Day is Special
+
 Graduation Day is special.
 It’s meaningful and good.
 It’s mother, God, and Apple Pie.

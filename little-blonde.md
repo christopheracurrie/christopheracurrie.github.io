@@ -6,7 +6,7 @@ excerpt: ""
 ---
 
 #Bits and Pieces from the American Classroom
-##Little Blonde
+
 Little Blonde
 So funny,
 Dimples side your cheeks.
