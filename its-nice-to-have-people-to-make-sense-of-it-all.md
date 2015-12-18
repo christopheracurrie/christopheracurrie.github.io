@@ -7,45 +7,44 @@ excerpt: ""
 
 #Bits and Pieces from the American Classroom
 
-Whenever I wonder
-What person I am
-I look to the people
-On whose trust I depend.
+Whenever I wonder  
+What person I am  
+I look to the people  
+On whose trust I depend.  
 
-They know that my psyche
-Is fragile at times
-And a word of encouragement
-May weather the unkind.
+They know that my psyche  
+Is fragile at times  
+And a word of encouragement  
+May weather the unkind.  
 
-Life is a maze:
-You may run into walls;
-A clearing ahead
-May lead nowhere at all.
+Life is a maze:  
+You may run into walls;  
+A clearing ahead  
+May lead nowhere at all.  
 
-But whenever you're troubled
-Or just need advice
-It's nice to have people
-To make sense of it all.
+But whenever you're troubled  
+Or just need advice  
+It's nice to have people  
+To make sense of it all.  
 
-Friendship's a bond
-Insured till it's gone
-The parties involved
-Must honor each other.
+Friendship's a bond  
+Insured till it's gone  
+The parties involved  
+Must honor each other.  
 
-Whenever I wonder
-What person I am
-I look to the people
-On whose trust I depend.
+Whenever I wonder  
+What person I am  
+I look to the people  
+On whose trust I depend.  
 
-Life is a maze:
-You may run into walls;
-A clearing ahead
-May lead nowhere at all.
+Life is a maze:  
+You may run into walls;  
+A clearing ahead  
+May lead nowhere at all.  
 
-But whenever you're troubled
-Or just need advice
-It's nice to have people
-To make sense of it all.
+But whenever you're troubled  
+Or just need advice  
+It's nice to have people  
+To make sense of it all.  
 
-***Having people you can trust with your feelings is important.
-
+***Having people you can trust with your feelings is important.  

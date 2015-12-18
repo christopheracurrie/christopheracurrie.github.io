@@ -7,36 +7,36 @@ excerpt: ""
 
 #Bits and Pieces from the American Classroom
 
-When the world
-was simple
-and children talked
-of gum,
+When the world  
+was simple  
+and children talked  
+of gum,  
 
-It seemed
-That we were capable
-of being
-anyone.
+It seemed  
+That we were capable  
+of being  
+anyone.  
 
-One day
-you were a lawyer
-talking
-to the court,
+One day  
+you were a lawyer  
+talking  
+to the court,  
 
-Another day
-a football player
-who became
-a motivating force.
+Another day  
+a football player  
+who became  
+a motivating force.  
 
-On Friday
-you were a business leader
-creating jobs
-for those who tried,
+On Friday  
+you were a business leader  
+creating jobs  
+for those who tried,  
 
-And now
-I can introduce
-those children
-whose dreams
-have come alive.
+And now  
+I can introduce  
+those children  
+whose dreams  
+have come alive.  
 
-***Lawyers, athletes, and business people had big dreams.
+***Lawyers, athletes, and business people had big dreams.  
 
