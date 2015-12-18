@@ -6,7 +6,6 @@ excerpt: ""
 ---
 
 #Bits and Pieces from the American Classroom
-##Gossip
  
 Gossip sometimes
 Makes its way

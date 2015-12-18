@@ -1,3 +1,10 @@
+---
+layout: page
+title:  "Do You Believe in Fairy Tales"
+permalink: /do-you-believe-in-fairy-tales/
+excerpt: ""
+---
+
 #Bits and Pieces from the American Classroom
 ##Do You Believe in Fairy Tales?
 Do you believe in fairy tales?
