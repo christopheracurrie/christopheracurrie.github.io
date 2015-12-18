@@ -5,8 +5,7 @@ permalink: /englasese/
 excerpt: ""
 ---
 
-<center>
-She was almost ninety-five
+She was almost ninety-five  
 Until a year or two ago.
 Her strength was good
 And she moved about.
@@ -30,4 +29,3 @@ It's time to say “bye”
 To the last of my grandparents.
 She awaits her last ceremony;
 The candy dish is empty.
-</center>
