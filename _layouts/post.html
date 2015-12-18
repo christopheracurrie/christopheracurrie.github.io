@@ -37,23 +37,6 @@ layout: default
     <div class="post-content" itemprop="articleBody">
       {{ content }}
     </div>
-    <div class="share social-icons">
-      <h2 class="share-title">Share this:</h2>
-      {% assign url = page.url | prepend: site.baseurl | prepend: site.url %}
-      <a href="https://twitter.com/share?text={{ page.title | uri_escape }}&amp;url={{ url }}"
-         onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-        <span class="visuallyhidden">Twitter</span>
-      </a>
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{ url }}"
-         onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-        <span class="visuallyhidden">Facebook</span>
-      </a>
-      <a href="https://plus.google.com/share?url={{ url }}"
-         onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-        <span class="visuallyhidden">Google+</span>
-      </a>
-    </div>
-
   </article>
 
   {% if author.bio %}
