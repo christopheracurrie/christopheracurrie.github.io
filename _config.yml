@@ -21,15 +21,40 @@ nav:
     url:   "/englasese/"
   - title: "I Kind of Like that Kid"
     url:   "/i-kind-of-like-that-kid/"
+  - title: "Do You Believe in Fairy Tales"
+    url:   "/do-you-believe-in-fairy-tales/"
+  - title: "Gossip"
+    url:   "/gossip/"
+  - title: "Graduation Day is Special"
+    url:   "/graduation-day-is-special/"
+  - title: "I kind of like that kid"
+    url:   "/i-kind-of-like-that-kid/"
+  - title: "Its nice to have people to make sense of it all"
+    url:   "/its-nice-to-have-people-to-make-sense-of-it-all/"
+  - title: "Little Blonde"
+    url:   "/little-blonde/"
+  - title: "So much of who we are"
+    url:   "/so-much-of-who-we-are/"
+  - title: "The American Thing"
+    url:   "/the-american-thing/"
+  - title: "The Laughter in Between"
+    url:   "/the-laughter-in-between/"
+  - title: "What Do You Do With a Guy like that"
+    url:   "/what-do-you-do-with-a-guy-like-that/"
+  - title: "When the world was simple and children talked of gum"
+    url:   "/when-the-world-was-simple-and-children-talked-of-gum/"
+  - title: "Whenever youre worried"
+    url:   "/whenever-youre-worried/"
 
-social_links:
-  - title: "Twitter"
-    url:   "https://twitter.com/"
-  - title: "Facebook"
-    url:   "https://www.facebook.com/"
-  - title: "Google+"
-    url:   "https://plus.google.com/"
-  - title: "RSS" # Just leave the "RSS" title, the url is generated in the HTML
+
+#social_links:
+#  - title: "Twitter"
+#    url:   "https://twitter.com/"
+#  - title: "Facebook"
+#    url:   "https://www.facebook.com/"
+#  - title: "Google+"
+#    url:   "https://plus.google.com/"
+#  - title: "RSS" # Just leave the "RSS" title, the url is generated in the HTML
                  # template (site.baseurl + "feed.xml" or site.feed).
   # - title: "Behance"
   #   url:   "https://www.behance.net/"
@@ -86,16 +111,16 @@ social_links:
 
 authors:
   johndoe:
-    name: John Doe
-    website: https://twitter.com/
-    bio: An awesome bio # Author info at bottom of post only shows if bio exists
+    name: Wayne Hayashibara
+    website: http://www.waynehayashibara.com/
+    bio: 
     avatar: /images/avatar.jpg
-  joebloggs:
-    name: Joe Bloggs
+#  joebloggs:
+#    name: Joe Bloggs
 
 # Extra Open Graph and Twitter Cards settings for social sharing
-og_image: # Fallback og:image when no page.image or site.image. at least 200 x 200px.
-twitter_site: # twitter:site. Your Twitter username without "@"
+#og_image: # Fallback og:image when no page.image or site.image. at least 200 x 200px.
+#twitter_site: # twitter:site. Your Twitter username without "@"
 
 # "Archive pages for your Jekyll tags and categories."
 # https://github.com/jekyll/jekyll-archives
