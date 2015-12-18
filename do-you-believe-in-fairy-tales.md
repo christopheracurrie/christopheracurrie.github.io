@@ -6,7 +6,7 @@ excerpt: ""
 ---
 
 #Bits and Pieces from the American Classroom
-##Do You Believe in Fairy Tales?
+
 Do you believe in fairy tales?
 That life remains at three.
 If you believe in fairy tales,
