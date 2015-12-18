@@ -1,4 +1,9 @@
-Englasese
+---
+layout: page
+title:  "Englasese"
+permalink: /englasese/
+excerpt: "The Monoid documentation."
+---
 
 She was almost ninety-five
 Until a year or two ago.
