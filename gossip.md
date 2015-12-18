@@ -7,26 +7,15 @@ excerpt: ""
 
 #Bits and Pieces from the American Classroom
  
-
-<span align="center">
-
 Gossip sometimes
-
 Makes its way  
-
 Into the cracks  
-
 And crannies of our minds.  
 
-
 It bypasses filters  
-
 Built by time,  
-
 Logic, thought,  
-
 And a mature mind.  
-
 
 It feeds  
 On sadness,  
@@ -73,6 +62,4 @@ Makes its way
 Into the cracks  
 And crannies of our mind.  
  
-**Gossip is not hurt by your tears.  
-
-</span>
+**Gossip is not hurt by your tears.
