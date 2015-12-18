@@ -6,7 +6,7 @@ excerpt: ""
 ---
 
 
-->   
+<p align="center">
 
 She was almost ninety-five  
 Until a year or two ago.  
@@ -33,4 +33,4 @@ To the last of my grandparents.
 She awaits her last ceremony;  
 The candy dish is empty.  
 
-<-   
+</p>

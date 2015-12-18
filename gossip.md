@@ -7,10 +7,10 @@ excerpt: ""
 
 #Bits and Pieces from the American Classroom
  
-Gossip sometimes  
-Makes its way  
-Into the cracks  
-And crannies of our minds.  
+->Gossip sometimes<-  
+->Makes its way<-  
+->Into the cracks<-  
+->And crannies of our minds.<-  
 
 It bypasses filters  
 Built by time,  
