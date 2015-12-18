@@ -8,7 +8,7 @@ excerpt: ""
 #Bits and Pieces from the American Classroom
  
 
-<p align="center">
+<span align="center">
 
 Gossip sometimes
 
@@ -75,4 +75,4 @@ And crannies of our mind.
  
 **Gossip is not hurt by your tears.  
 
-</p>
+</span>
