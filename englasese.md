@@ -6,31 +6,27 @@ excerpt: ""
 ---
 
 
-<p align="center">
+<p align="center">She was almost ninety-five</p>  
+<p align="center">Until a year or two ago.</p>  
+<p align="center">Her strength was good</p>  
+<p align="center">And she moved about.</p>  
 
-She was almost ninety-five</br></br>  
-Until a year or two ago.</br>  
-Her strength was good</br>  
-And she moved about.</br>  
+<p align="center">I recall her liking</p>  
+<p align="center">To make her grandchildren food;</p>  
+<p align="center">Candy was always on the table</p>  
+<p align="center">And I ate many.</p>  
 
-I recall her liking</br>  
-To make her grandchildren food;</br>  
-Candy was always on the table</br>  
-And I ate many.</br>  
+<p align="center">Her Englasese was pretty good.</p>  
+<p align="center">An English word here and there</p>  
+<p align="center">Amongst lots of Japanese –</p>  
+<p align="center">Englasese.</p>  
 
-Her Englasese was pretty good.</br>  
-An English word here and there</br>  
-Amongst lots of Japanese –</br>  
-Englasese.</br>  
+<p align="center">She liked to garden,</p>  
+<p align="center">Used to show us</p>  
+<p align="center">Her Japanese Eggplant</p>  
+<p align="center">Or beautiful flowers.</p>  
 
-She liked to garden,</br>  
-Used to show us</br>  
-Her Japanese Eggplant</br>  
-Or beautiful flowers.</br>  
-
-It's time to say “bye”</br>  
-To the last of my grandparents.</br>  
-She awaits her last ceremony;</br>  
-The candy dish is empty.</br>  
-
-</p>
+<p align="center">It's time to say “bye”</p>  
+<p align="center">To the last of my grandparents.</p>  
+<p align="center">She awaits her last ceremony;</p>  
+<p align="center">The candy dish is empty.</p>  
