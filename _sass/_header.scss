@@ -1,8 +1,25 @@
+.overlay {
+  display: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  background-image: linear-gradient(#fff 30%, rgba(#fff, .93));
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0);
+
+  &.on {
+    display: block;
+  }
+}
+
 .site-header {
   @include gradient-line(middle, #eee);
 
   border-top: 5px solid #2a2a2a;
   position: relative;
+  z-index: 100;
 
   > .container {
     padding-bottom: 30px;
