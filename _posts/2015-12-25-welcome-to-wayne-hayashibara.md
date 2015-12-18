@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Wayne Hayashibara's Poetry!"
+title:  "Welcome!"
 author: Wayne Hayashibara
 categories: Poetry
 image: /images/post-image.png
