@@ -9,10 +9,10 @@ It's almost midnight,
 And we've had our little talk;
 A talk that will end
 With "Good night,"
-With  "Good bye" understood
+With "Good bye" understood
 
-Strange to saying "Good night".
-With  "Good bye" understood;
+Strange to be saying "Good night".
+With "Good bye" understood;
 Strange to be saying "Good" anything
 When I feel the way I do
 
